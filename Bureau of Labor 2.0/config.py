@@ -1,1 +1,0 @@
-bls_key = 'bde53623edde4b388f78081afd068b0f'
